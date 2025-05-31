@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RkoHyD1+kQU=",
+  "success": true,
+  "projectFilePath": "/home/milinda/Documents/Snap86/Bike POS system/backend/SmartBikePOS.Api/SmartBikePOS.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/milinda/.nuget/packages/microsoft.aspnetcore.openapi/9.0.5/microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "/home/milinda/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
