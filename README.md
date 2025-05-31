@@ -66,5 +66,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 💬 Contact
 
-Created by **Harshana wijerathne & Milinda Karunaratne**  
-For questions or collaboration: [Harshana](harshanawijerathne08@gmail.com), [Milinda](milindakarunaratna55@gmail.com)
+Created by **Harshana Wijerathne** & **Milinda Karunaratne**  
+For questions or collaboration:  
+📧 [Email - Harshana](mailto:harshanawijerathne08@gmail.com)  
+📧 [Email - Milinda](mailto:milindakarunaratna55@gmail.com)
+
