@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartBikePOS.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3e4030459a9ffeeb431641060a2170921314a9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartBikePOS.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartBikePOS.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
